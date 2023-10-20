@@ -1,1 +1,1 @@
-Jaume's Blog
+Jaume's Automation Blog
